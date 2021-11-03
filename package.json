@@ -15,10 +15,5 @@
   },
   "main": "app.js",
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sumant15/fwb95chaganti/issues"
-  },
-  "homepage": "https://github.com/sumant15/fwb95chaganti#readme",
-  "description": ""
+  "license": "ISC"
 }
