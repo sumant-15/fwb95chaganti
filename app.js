@@ -6,9 +6,12 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+<<<<<<< HEAD
 var jacketRouter = require('./routes/jacket');
 var addmodsRouter = require('./routes/addmods');
 var selectorRouter = require('./routes/selector');
+=======
+>>>>>>> 0fc34099030ceb0c9305b3544dc20ec77ac5c435
 
 var app = express();
 
@@ -24,9 +27,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+<<<<<<< HEAD
 app.use('/jacket',jacketRouter);
 app.use('/addmods',addmodsRouter);
 app.use('/selector',selectorRouter);
+=======
+>>>>>>> 0fc34099030ceb0c9305b3544dc20ec77ac5c435
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
