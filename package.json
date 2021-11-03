@@ -14,20 +14,11 @@
     "pug": "^3.0.2"
   },
   "main": "app.js",
-<<<<<<< HEAD
-  "author": "",
-  "license": "ISC",
-=======
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sumant15/fwb95chaganti.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sumant15/fwb95chaganti/issues"
   },
   "homepage": "https://github.com/sumant15/fwb95chaganti#readme",
->>>>>>> 0fc34099030ceb0c9305b3544dc20ec77ac5c435
   "description": ""
 }
